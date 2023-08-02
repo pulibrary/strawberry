@@ -1,0 +1,2562 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Princetonian 11 January 1877",
+  "metadata": [],
+  "navDate": "1877-01-01T00:00:00Z",
+
+  "sequences": [ {
+    "@type": "sc:Sequence",
+    "canvases": [
+      {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.1",
+  "@type": "sc:Canvas",
+  "label": "Page 1",
+  "height": 4220,
+  "width": 2832,
+  "images": [ {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/annotation/Princetonian18770111-01.1.1",
+    "@type": "oa:Annotation",
+    "motivation": "sc:painting",
+    "on": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.1",
+    "resource": {
+      "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.1/full/full/0/default.jpg",
+      "@type": "dctypes:Image",
+      "height": 4220,
+      "width": 2832,
+      "format": "image/jpeg",
+      "service": {
+        "@context": "http://iiif.io/api/image/2/context.json",
+        "profile": "http://iiif.io/api/image/2/level1.json",
+        "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.1",
+        "height": 4220,
+        "width": 2832
+      }
+    }
+  } ],
+  "otherContent": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.1(P1_TB00001)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.1(P1_TB00001)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.1(P1_TB00002)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.1(P1_TB00002)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.1(P1_TB00003)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.1(P1_TB00003)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.1(P1_TB00004)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.1(P1_TB00004)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.1(P1_TB00005)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.1(P1_TB00005)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.1(P1_TB00006)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.1(P1_TB00006)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.1(P1_TB00007)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.1(P1_TB00007)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.1(P1_TB00008)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.1(P1_TB00008)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.1(P1_TB00009)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.1(P1_TB00009)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.1(P1_TB00010)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.1(P1_TB00010)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.1(P1_TB00011)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.1(P1_TB00011)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.1(P1_TB00012)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.1(P1_TB00012)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.1(P1_TB00013)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.1(P1_TB00013)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.1(P1_TB00014)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.1(P1_TB00014)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.1(P1_TB00015)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.1(P1_TB00015)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.1(P1_TB00016)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.1(P1_TB00016)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.1(P1_TB00017)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.1(P1_TB00017)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.2",
+  "@type": "sc:Canvas",
+  "label": "Page 2",
+  "height": 4220,
+  "width": 2832,
+  "images": [ {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/annotation/Princetonian18770111-01.1.2",
+    "@type": "oa:Annotation",
+    "motivation": "sc:painting",
+    "on": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.2",
+    "resource": {
+      "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.2/full/full/0/default.jpg",
+      "@type": "dctypes:Image",
+      "height": 4220,
+      "width": 2832,
+      "format": "image/jpeg",
+      "service": {
+        "@context": "http://iiif.io/api/image/2/context.json",
+        "profile": "http://iiif.io/api/image/2/level1.json",
+        "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.2",
+        "height": 4220,
+        "width": 2832
+      }
+    }
+  } ],
+  "otherContent": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.2(P2_TB00001)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.2(P2_TB00001)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.2(P2_TB00002)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.2(P2_TB00002)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.2(P2_TB00003)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.2(P2_TB00003)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.2(P2_TB00004)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.2(P2_TB00004)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.2(P2_TB00005)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.2(P2_TB00005)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.2(P2_TB00006)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.2(P2_TB00006)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.2(P2_TB00007)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.2(P2_TB00007)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.3",
+  "@type": "sc:Canvas",
+  "label": "Page 3",
+  "height": 4215,
+  "width": 2824,
+  "images": [ {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/annotation/Princetonian18770111-01.1.3",
+    "@type": "oa:Annotation",
+    "motivation": "sc:painting",
+    "on": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.3",
+    "resource": {
+      "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.3/full/full/0/default.jpg",
+      "@type": "dctypes:Image",
+      "height": 4215,
+      "width": 2824,
+      "format": "image/jpeg",
+      "service": {
+        "@context": "http://iiif.io/api/image/2/context.json",
+        "profile": "http://iiif.io/api/image/2/level1.json",
+        "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.3",
+        "height": 4215,
+        "width": 2824
+      }
+    }
+  } ],
+  "otherContent": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.3(P3_TB00001)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.3(P3_TB00001)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.3(P3_TB00002)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.3(P3_TB00002)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.3(P3_TB00003)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.3(P3_TB00003)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.3(P3_TB00004)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.3(P3_TB00004)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.3(P3_TB00005)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.3(P3_TB00005)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.3(P3_TB00006)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.3(P3_TB00006)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.3(P3_TB00007)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.3(P3_TB00007)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.3(P3_TB00008)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.3(P3_TB00008)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.3(P3_TB00009)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.3(P3_TB00009)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.3(P3_TB00010)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.3(P3_TB00010)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.3(P3_TB00011)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.3(P3_TB00011)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.3(P3_TB00012)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.3(P3_TB00012)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.3(P3_TB00013)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.3(P3_TB00013)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.3(P3_TB00014)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.3(P3_TB00014)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.4",
+  "@type": "sc:Canvas",
+  "label": "Page 4",
+  "height": 4200,
+  "width": 2800,
+  "images": [ {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/annotation/Princetonian18770111-01.1.4",
+    "@type": "oa:Annotation",
+    "motivation": "sc:painting",
+    "on": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.4",
+    "resource": {
+      "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.4/full/full/0/default.jpg",
+      "@type": "dctypes:Image",
+      "height": 4200,
+      "width": 2800,
+      "format": "image/jpeg",
+      "service": {
+        "@context": "http://iiif.io/api/image/2/context.json",
+        "profile": "http://iiif.io/api/image/2/level1.json",
+        "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.4",
+        "height": 4200,
+        "width": 2800
+      }
+    }
+  } ],
+  "otherContent": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.4(P4_TB00001)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.4(P4_TB00001)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.4(P4_TB00002)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.4(P4_TB00002)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.4(P4_TB00003)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.4(P4_TB00003)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.4(P4_TB00004)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.4(P4_TB00004)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.4(P4_TB00005)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.4(P4_TB00005)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.4(P4_TB00006)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.4(P4_TB00006)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.4(P4_TB00007)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.4(P4_TB00007)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.4(P4_TB00008)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.4(P4_TB00008)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.4(P4_TB00009)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.4(P4_TB00009)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.5",
+  "@type": "sc:Canvas",
+  "label": "Page 5",
+  "height": 4205,
+  "width": 2808,
+  "images": [ {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/annotation/Princetonian18770111-01.1.5",
+    "@type": "oa:Annotation",
+    "motivation": "sc:painting",
+    "on": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.5",
+    "resource": {
+      "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.5/full/full/0/default.jpg",
+      "@type": "dctypes:Image",
+      "height": 4205,
+      "width": 2808,
+      "format": "image/jpeg",
+      "service": {
+        "@context": "http://iiif.io/api/image/2/context.json",
+        "profile": "http://iiif.io/api/image/2/level1.json",
+        "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.5",
+        "height": 4205,
+        "width": 2808
+      }
+    }
+  } ],
+  "otherContent": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.5(P5_TB00001)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.5(P5_TB00001)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.5(P5_TB00002)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.5(P5_TB00002)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.5(P5_TB00003)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.5(P5_TB00003)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.5(P5_TB00004)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.5(P5_TB00004)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.5(P5_TB00005)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.5(P5_TB00005)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.5(P5_TB00006)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.5(P5_TB00006)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.5(P5_TB00007)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.5(P5_TB00007)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.5(P5_TB00008)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.5(P5_TB00008)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.5(P5_TB00009)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.5(P5_TB00009)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.5(P5_TB00010)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.5(P5_TB00010)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.5(P5_TB00011)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.5(P5_TB00011)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.6",
+  "@type": "sc:Canvas",
+  "label": "Page 6",
+  "height": 4220,
+  "width": 2832,
+  "images": [ {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/annotation/Princetonian18770111-01.1.6",
+    "@type": "oa:Annotation",
+    "motivation": "sc:painting",
+    "on": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.6",
+    "resource": {
+      "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.6/full/full/0/default.jpg",
+      "@type": "dctypes:Image",
+      "height": 4220,
+      "width": 2832,
+      "format": "image/jpeg",
+      "service": {
+        "@context": "http://iiif.io/api/image/2/context.json",
+        "profile": "http://iiif.io/api/image/2/level1.json",
+        "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.6",
+        "height": 4220,
+        "width": 2832
+      }
+    }
+  } ],
+  "otherContent": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.6(P6_TB00001)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.6(P6_TB00001)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.6(P6_TB00002)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.6(P6_TB00002)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.6(P6_TB00003)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.6(P6_TB00003)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.6(P6_TB00004)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.6(P6_TB00004)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.6(P6_TB00005)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.6(P6_TB00005)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.6(P6_TB00006)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.6(P6_TB00006)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.6(P6_TB00007)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.6(P6_TB00007)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.6(P6_TB00008)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.6(P6_TB00008)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.6(P6_TB00009)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.6(P6_TB00009)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.6(P6_TB00010)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.6(P6_TB00010)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.6(P6_TB00011)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.6(P6_TB00011)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.7",
+  "@type": "sc:Canvas",
+  "label": "Page 7",
+  "height": 4230,
+  "width": 2846,
+  "images": [ {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/annotation/Princetonian18770111-01.1.7",
+    "@type": "oa:Annotation",
+    "motivation": "sc:painting",
+    "on": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.7",
+    "resource": {
+      "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.7/full/full/0/default.jpg",
+      "@type": "dctypes:Image",
+      "height": 4230,
+      "width": 2846,
+      "format": "image/jpeg",
+      "service": {
+        "@context": "http://iiif.io/api/image/2/context.json",
+        "profile": "http://iiif.io/api/image/2/level1.json",
+        "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.7",
+        "height": 4230,
+        "width": 2846
+      }
+    }
+  } ],
+  "otherContent": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.7(P7_TB00001)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.7(P7_TB00001)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.7(P7_TB00002)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.7(P7_TB00002)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.7(P7_TB00003)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.7(P7_TB00003)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.7(P7_TB00004)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.7(P7_TB00004)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.7(P7_TB00005)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.7(P7_TB00005)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.7(P7_TB00006)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.7(P7_TB00006)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.7(P7_TB00007)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.7(P7_TB00007)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.7(P7_TB00008)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.7(P7_TB00008)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.7(P7_TB00009)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.7(P7_TB00009)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.7(P7_TB00010)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.7(P7_TB00010)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.7(P7_TB00011)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.7(P7_TB00011)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.8",
+  "@type": "sc:Canvas",
+  "label": "Page 8",
+  "height": 4200,
+  "width": 2800,
+  "images": [ {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/annotation/Princetonian18770111-01.1.8",
+    "@type": "oa:Annotation",
+    "motivation": "sc:painting",
+    "on": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.8",
+    "resource": {
+      "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.8/full/full/0/default.jpg",
+      "@type": "dctypes:Image",
+      "height": 4200,
+      "width": 2800,
+      "format": "image/jpeg",
+      "service": {
+        "@context": "http://iiif.io/api/image/2/context.json",
+        "profile": "http://iiif.io/api/image/2/level1.json",
+        "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.8",
+        "height": 4200,
+        "width": 2800
+      }
+    }
+  } ],
+  "otherContent": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.8(P8_TB00001)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.8(P8_TB00001)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.8(P8_TB00002)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.8(P8_TB00002)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.8(P8_TB00003)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.8(P8_TB00003)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.8(P8_TB00004)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.8(P8_TB00004)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.8(P8_TB00005)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.8(P8_TB00005)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.8(P8_TB00006)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.8(P8_TB00006)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.8(P8_TB00007)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.8(P8_TB00007)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.8(P8_TB00008)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.8(P8_TB00008)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.8(P8_TB00009)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.8(P8_TB00009)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.8(P8_TB00010)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.8(P8_TB00010)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.8(P8_TB00011)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.8(P8_TB00011)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.8(P8_TB00012)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.8(P8_TB00012)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.8(P8_TB00013)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.8(P8_TB00013)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.9",
+  "@type": "sc:Canvas",
+  "label": "Page 9",
+  "height": 4205,
+  "width": 2808,
+  "images": [ {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/annotation/Princetonian18770111-01.1.9",
+    "@type": "oa:Annotation",
+    "motivation": "sc:painting",
+    "on": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.9",
+    "resource": {
+      "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.9/full/full/0/default.jpg",
+      "@type": "dctypes:Image",
+      "height": 4205,
+      "width": 2808,
+      "format": "image/jpeg",
+      "service": {
+        "@context": "http://iiif.io/api/image/2/context.json",
+        "profile": "http://iiif.io/api/image/2/level1.json",
+        "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.9",
+        "height": 4205,
+        "width": 2808
+      }
+    }
+  } ],
+  "otherContent": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.9(P9_TB00001)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.9(P9_TB00001)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.9(P9_TB00002)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.9(P9_TB00002)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.9(P9_TB00003)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.9(P9_TB00003)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.9(P9_TB00004)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.9(P9_TB00004)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.9(P9_TB00005)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.9(P9_TB00005)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.9(P9_TB00006)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.9(P9_TB00006)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.9(P9_TB00007)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.9(P9_TB00007)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.9(P9_TB00008)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.9(P9_TB00008)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.10",
+  "@type": "sc:Canvas",
+  "label": "Page 10",
+  "height": 4220,
+  "width": 2832,
+  "images": [ {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/annotation/Princetonian18770111-01.1.10",
+    "@type": "oa:Annotation",
+    "motivation": "sc:painting",
+    "on": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.10",
+    "resource": {
+      "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.10/full/full/0/default.jpg",
+      "@type": "dctypes:Image",
+      "height": 4220,
+      "width": 2832,
+      "format": "image/jpeg",
+      "service": {
+        "@context": "http://iiif.io/api/image/2/context.json",
+        "profile": "http://iiif.io/api/image/2/level1.json",
+        "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.10",
+        "height": 4220,
+        "width": 2832
+      }
+    }
+  } ],
+  "otherContent": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.10(P10_TB00001)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.10(P10_TB00001)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.10(P10_TB00002)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.10(P10_TB00002)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.10(P10_TB00003)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.10(P10_TB00003)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.10(P10_TB00004)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.10(P10_TB00004)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.10(P10_TB00005)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.10(P10_TB00005)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.10(P10_TB00006)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.10(P10_TB00006)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.10(P10_TB00007)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.10(P10_TB00007)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.10(P10_TB00008)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.10(P10_TB00008)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.10(P10_TB00009)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.10(P10_TB00009)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.11",
+  "@type": "sc:Canvas",
+  "label": "Page 11",
+  "height": 4205,
+  "width": 2808,
+  "images": [ {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/annotation/Princetonian18770111-01.1.11",
+    "@type": "oa:Annotation",
+    "motivation": "sc:painting",
+    "on": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.1.11",
+    "resource": {
+      "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.11/full/full/0/default.jpg",
+      "@type": "dctypes:Image",
+      "height": 4205,
+      "width": 2808,
+      "format": "image/jpeg",
+      "service": {
+        "@context": "http://iiif.io/api/image/2/context.json",
+        "profile": "http://iiif.io/api/image/2/level1.json",
+        "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/image/Princetonian18770111-01.1.11",
+        "height": 4205,
+        "width": 2808
+      }
+    }
+  } ],
+  "otherContent": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.11(P11_TB00001)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.11(P11_TB00001)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.11(P11_TB00002)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.11(P11_TB00002)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.11(P11_TB00003)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.11(P11_TB00003)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.11(P11_TB00004)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.11(P11_TB00004)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.11(P11_TB00005)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.11(P11_TB00005)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.11(P11_TB00006)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.11(P11_TB00006)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.11(P11_TB00007)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.11(P11_TB00007)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.11(P11_TB00008)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.11(P11_TB00008)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.11(P11_TB00009)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.11(P11_TB00009)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.11(P11_TB00010)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.11(P11_TB00010)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.11(P11_TB00011)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.11(P11_TB00011)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.11(P11_TB00012)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.11(P11_TB00012)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/list/Princetonian18770111-01.1.11(P11_TB00013)",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.1.11(P11_TB00013)",
+    "@type": "sc:Layer",
+    "label": "OCR Text Block"
+  }
+}
+
+  ]
+}
+
+    ]
+  } ],
+  "structures": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.1",
+  "@type": "sc:Range",
+  "label": "Masthead",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "TITLE_SECTION"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.1#xywh=190,229,2528,282"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.1#xywh=132,603,282,103"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.1#xywh=714,601,1478,113"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.1#xywh=2488,614,284,111"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.1(P1_TB00001)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.1(P1_TB00002)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.1(P1_TB00003)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.1(P1_TB00004)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.2",
+  "@type": "sc:Range",
+  "label": "EDITORS:",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.2#xywh=558,803,422,36"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.2#xywh=116,860,1267,250"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.2#xywh=1446,790,1338,317"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.2(P1_TB00005)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.2(P1_TB00006)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.2(P1_TB00007)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.3",
+  "@type": "sc:Range",
+  "label": "CONTENTS:",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.3#xywh=1136,1178,642,57"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.3#xywh=120,1251,1335,225"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.3#xywh=1489,1249,1287,223"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.3(P1_TB00008)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.3(P1_TB00009)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.3(P1_TB00010)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.4",
+  "@type": "sc:Range",
+  "label": "Untitled",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.4#xywh=95,1556,1320,1693"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.4(P1_TB00011)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.5",
+  "@type": "sc:Range",
+  "label": "PRINCETON'S CURRICULUM.",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.5#xywh=230,3417,1019,54"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.5#xywh=94,3573,1284,223"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.5#xywh=92,3807,1287,303"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.5#xywh=1480,1561,1291,296"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.5#xywh=1457,1873,1310,1937"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.5#xywh=1454,3820,1291,299"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.5#xywh=69,320,1309,3747"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.5#xywh=1456,325,1287,453"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.5(P1_TB00012)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.5(P1_TB00013)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.5(P1_TB00014)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.5(P1_TB00015)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.5(P1_TB00016)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.5(P1_TB00017)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.5(P2_TB00001)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.5(P2_TB00002)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.6",
+  "@type": "sc:Range",
+  "label": "Untitled",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.6#xywh=1446,940,1306,1039"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.6#xywh=1449,1988,1295,1692"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.6(P2_TB00003)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.6(P2_TB00004)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.7",
+  "@type": "sc:Range",
+  "label": "Untitled",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.7#xywh=1451,3842,1286,223"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.7(P2_TB00005)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.8",
+  "@type": "sc:Range",
+  "label": "TEN DOLLARS FOR PUBLIC ROOMS.",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.8#xywh=95,342,1277,53"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.8#xywh=93,525,1282,141"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.8#xywh=88,682,1287,688"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.8(P3_TB00001)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.8(P3_TB00002)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.8(P3_TB00003)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.9",
+  "@type": "sc:Range",
+  "label": "Untitled",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.9#xywh=83,1529,1288,297"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.9#xywh=83,1841,1292,611"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.9#xywh=85,2468,1292,1318"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.9#xywh=83,3800,1293,302"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.9#xywh=1444,334,1308,1482"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.9#xywh=1453,1828,1285,647"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.9(P3_TB00004)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.9(P3_TB00005)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.9(P3_TB00006)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.9(P3_TB00007)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.9(P3_TB00008)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.9(P3_TB00009)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.10",
+  "@type": "sc:Range",
+  "label": "Untitled",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.10#xywh=1453,2551,1287,372"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.10#xywh=1451,2938,1293,928"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.10#xywh=1450,3878,1285,220"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.10#xywh=70,276,1303,1398"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.10#xywh=72,1691,1288,534"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.10#xywh=68,2240,1289,616"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.10(P3_TB00010)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.10(P3_TB00011)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.10(P3_TB00012)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.10(P4_TB00001)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.10(P4_TB00002)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.10(P4_TB00003)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.11",
+  "@type": "sc:Range",
+  "label": "Untitled",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.11#xywh=61,2957,1297,1082"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.11#xywh=1454,277,1287,223"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.11#xywh=1434,513,1310,2804"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.11#xywh=1436,3345,1293,694"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.11#xywh=93,324,1300,680"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.11(P4_TB00004)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.11(P4_TB00005)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.11(P4_TB00006)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.11(P4_TB00007)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.11(P5_TB00001)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.12",
+  "@type": "sc:Range",
+  "label": "Untitled",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.12#xywh=89,1122,1300,989"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.12(P5_TB00002)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.13",
+  "@type": "sc:Range",
+  "label": "Untitled",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.13#xywh=88,2148,1293,994"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.13(P5_TB00003)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.14",
+  "@type": "sc:Range",
+  "label": "Untitled",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.14#xywh=87,3273,1290,223"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.14#xywh=81,3508,1297,205"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.14(P5_TB00004)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.14(P5_TB00005)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.15",
+  "@type": "sc:Range",
+  "label": "Untitled",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.15#xywh=81,3860,1295,206"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.15(P5_TB00006)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.16",
+  "@type": "sc:Range",
+  "label": "DANIEL DERONDA.",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.16#xywh=1771,326,679,49"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.16#xywh=1453,502,1314,3194"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.16#xywh=1457,3706,1294,374"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.16#xywh=88,302,1286,375"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.16#xywh=87,693,1287,609"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.16#xywh=83,1316,1295,1081"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.16#xywh=83,2413,1289,455"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.16(P5_TB00007)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.16(P5_TB00008)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.16(P5_TB00009)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.16(P6_TB00001)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.16(P6_TB00002)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.16(P6_TB00003)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.16(P6_TB00004)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.17",
+  "@type": "sc:Range",
+  "label": "\"SHALL PRINCETON ENTER THE NEXT REGATTA?\"",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.17#xywh=140,3037,1178,128"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.17#xywh=83,3284,1293,538"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.17#xywh=85,3834,1291,223"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.17#xywh=1445,298,1315,2961"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.17#xywh=1460,3285,1295,771"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.17#xywh=122,318,1295,532"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.17#xywh=109,859,1307,1569"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.17#xywh=115,2450,1297,849"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.17(P6_TB00005)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.17(P6_TB00006)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.17(P6_TB00007)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.17(P6_TB00008)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.17(P6_TB00009)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.17(P7_TB00001)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.17(P7_TB00002)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.17(P7_TB00003)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.18",
+  "@type": "sc:Range",
+  "label": "NATURAL SCIENCE ASSOCIATION.",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.18#xywh=115,3451,1288,55"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.18#xywh=107,3602,1304,470"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.18#xywh=1486,312,1306,1874"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.18#xywh=1486,2196,1293,534"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.18(P7_TB00004)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.18(P7_TB00005)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.18(P7_TB00006)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.18(P7_TB00007)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.19",
+  "@type": "sc:Range",
+  "label": "PRINCETON AND THE NEXT REGATTA.",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.19#xywh=1479,2831,1300,136"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.19#xywh=1471,3064,1306,1014"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.19#xywh=62,276,1330,2027"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.19#xywh=72,2315,599,61"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.19#xywh=69,2391,1295,531"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.19(P7_TB00008)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.19(P7_TB00009)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.19(P8_TB00001)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.19(P8_TB00002)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.19(P8_TB00003)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.20",
+  "@type": "sc:Range",
+  "label": "REPORTER.",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.20#xywh=525,3043,390,48"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.20#xywh=70,3186,1288,305"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.20#xywh=72,3507,1294,498"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.20#xywh=1426,282,1294,368"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.20#xywh=1426,664,1293,1449"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.20#xywh=1425,2128,1290,497"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.20#xywh=1425,2638,1293,304"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.20#xywh=1420,2952,1303,1054"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.20#xywh=88,294,1307,3163"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.20#xywh=103,3546,1288,498"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.20#xywh=1451,287,1314,2414"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.20#xywh=1467,2709,1293,686"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.20#xywh=1470,3423,1291,428"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.20#xywh=1470,3860,1292,183"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.20#xywh=81,316,1297,440"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.20#xywh=76,761,1309,1527"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.20#xywh=82,2298,1290,175"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.20(P8_TB00004)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.20(P8_TB00005)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.20(P8_TB00006)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.20(P8_TB00007)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.20(P8_TB00008)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.20(P8_TB00009)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.20(P8_TB00010)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.20(P8_TB00011)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.20(P9_TB00001)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.20(P9_TB00002)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.20(P9_TB00003)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.20(P9_TB00004)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.20(P9_TB00005)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.20(P9_TB00006)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.20(P10_TB00001)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.20(P10_TB00002)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.20(P10_TB00003)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.21",
+  "@type": "sc:Range",
+  "label": "Untitled",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.21#xywh=81,2591,1290,302"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.21(P10_TB00004)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.22",
+  "@type": "sc:Range",
+  "label": "HERE AND THERE.",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.22#xywh=386,3022,671,48"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.22#xywh=74,3172,1334,885"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.22#xywh=1439,291,1319,3772"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.22#xywh=89,357,1295,826"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.22(P10_TB00005)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.22(P10_TB00006)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.22(P10_TB00007)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.22(P11_TB00001)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.23",
+  "@type": "sc:Range",
+  "label": "SEMINARY ITEMS.",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.23#xywh=420,1357,639,49"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.23#xywh=92,1526,1285,242"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.23#xywh=93,1809,1285,113"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.23#xywh=87,1936,1297,232"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.23#xywh=83,2210,1295,817"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.23(P11_TB00002)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.23(P11_TB00003)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.23(P11_TB00004)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.23(P11_TB00005)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.23(P11_TB00006)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/range/Princetonian18770111-01.2.24",
+  "@type": "sc:Range",
+  "label": "EXCHANGES.",
+  "metadata": [ {
+    "label": "Article Category",
+    "value": "ARTICLE"
+  } ],
+
+  "canvases": [
+    
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.24#xywh=498,3220,457,48"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.24#xywh=88,3392,1285,302"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.24#xywh=81,3737,1294,368"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.24#xywh=1451,359,1304,2936"
+,
+  "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/canvas/Princetonian18770111-01.2.24#xywh=1453,3325,1300,776"
+
+  ],
+  "contentLayer": [
+    {
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.24(P11_TB00007)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.24(P11_TB00008)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.24(P11_TB00009)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.24(P11_TB00010)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+,{
+  "@id": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/issue/Princetonian18770111-01/layer/Princetonian18770111-01.2.24(P11_TB00011)",
+  "@type": "sc:Layer",
+  "label": "OCR Text Block"
+}
+
+  ]
+}
+
+  ],
+
+  "within": "https://papersofprinceton.princeton.edu/princetonperiodicals/iiif/collection/Princetonian"
+}

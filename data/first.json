@@ -1,0 +1,320 @@
+{
+"VeridianJSONResponse": {
+"DocumentResponse": {
+  "Document": { 
+    "DocumentContent": {
+      "DocumentLastModified": "2022-09-07T01:43:10Z",
+      "DocumentNextDocumentID": "Princetonian18761005-01",
+      "DocumentPrevDocumentID": "",
+      "DocumentPdfURL": "/princetonperiodicals/cgi-bin/imageserver.pl?oid=Princetonian18760922-01&getpdf=true",
+      "DocumentViewURL": "/princetonperiodicals/?a=d&d=Princetonian18760922-01",
+      "ArrayOfPage": [{ "Page": {
+"PageMetadata": {
+  "PageID": "Princetonian18760922-01.1.1",
+  "PageImageHeight": "4200",
+  "PageImageWidth": "2800",
+  "PageOCRAccuracy": "81.5%",
+  "PageTitle": "Page 1",
+  "PageType": "PAGE"
+}
+} },
+{ "Page": {
+"PageMetadata": {
+  "PageID": "Princetonian18760922-01.1.2",
+  "PageImageHeight": "4200",
+  "PageImageWidth": "2800",
+  "PageOCRAccuracy": "83.5%",
+  "PageTitle": "Page 2",
+  "PageType": "PAGE"
+}
+} },
+{ "Page": {
+"PageMetadata": {
+  "PageID": "Princetonian18760922-01.1.3",
+  "PageImageHeight": "4200",
+  "PageImageWidth": "2800",
+  "PageOCRAccuracy": "86.8%",
+  "PageTitle": "Page 3",
+  "PageType": "PAGE"
+}
+} },
+{ "Page": {
+"PageMetadata": {
+  "PageID": "Princetonian18760922-01.1.4",
+  "PageImageHeight": "4200",
+  "PageImageWidth": "2800",
+  "PageOCRAccuracy": "85.8%",
+  "PageTitle": "Page 4",
+  "PageType": "PAGE"
+}
+} },
+{ "Page": {
+"PageMetadata": {
+  "PageID": "Princetonian18760922-01.1.5",
+  "PageImageHeight": "4200",
+  "PageImageWidth": "2800",
+  "PageOCRAccuracy": "86.7%",
+  "PageTitle": "Page 5",
+  "PageType": "PAGE"
+}
+} },
+{ "Page": {
+"PageMetadata": {
+  "PageID": "Princetonian18760922-01.1.6",
+  "PageImageHeight": "4200",
+  "PageImageWidth": "2800",
+  "PageOCRAccuracy": "81.9%",
+  "PageTitle": "Page 6",
+  "PageType": "PAGE"
+}
+} },
+{ "Page": {
+"PageMetadata": {
+  "PageID": "Princetonian18760922-01.1.7",
+  "PageImageHeight": "4200",
+  "PageImageWidth": "2800",
+  "PageOCRAccuracy": "82.9%",
+  "PageTitle": "Page 7",
+  "PageType": "PAGE"
+}
+} },
+{ "Page": {
+"PageMetadata": {
+  "PageID": "Princetonian18760922-01.1.8",
+  "PageImageHeight": "4205",
+  "PageImageWidth": "2808",
+  "PageOCRAccuracy": "86.3%",
+  "PageTitle": "Page 8",
+  "PageType": "PAGE"
+}
+} },
+{ "Page": {
+"PageMetadata": {
+  "PageID": "Princetonian18760922-01.1.9",
+  "PageImageHeight": "4200",
+  "PageImageWidth": "2800",
+  "PageOCRAccuracy": "85.2%",
+  "PageTitle": "Page 9",
+  "PageType": "PAGE"
+}
+} },
+{ "Page": {
+"PageMetadata": {
+  "PageID": "Princetonian18760922-01.1.10",
+  "PageImageHeight": "4200",
+  "PageImageWidth": "2800",
+  "PageOCRAccuracy": "86.1%",
+  "PageTitle": "Page 10",
+  "PageType": "PAGE"
+}
+} },
+{ "Page": {
+"PageMetadata": {
+  "PageID": "Princetonian18760922-01.1.11",
+  "PageImageHeight": "4200",
+  "PageImageWidth": "2800",
+  "PageOCRAccuracy": "80.3%",
+  "PageTitle": "Page 11",
+  "PageType": "PAGE"
+}
+} },
+{ "Page": {
+"PageMetadata": {
+  "PageID": "Princetonian18760922-01.1.12",
+  "PageImageHeight": "4200",
+  "PageImageWidth": "2800",
+  "PageOCRAccuracy": "78%",
+  "PageTitle": "Page 12",
+  "PageType": "PAGE"
+}
+} }],
+      "ArrayOfLogicalSection": [<a href="#" onclick="sectionLinkTocOnClick('Princetonian18760922-01.1.1', 'Princetonian18760922-01.1.1'); return false;"><b><u>Page 1</u></b></a> { "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.1",
+  "LogicalSectionID": "Princetonian18760922-01.2.1",
+  "LogicalSectionTitle": "Masthead",
+  "LogicalSectionType": "TITLE_SECTION"
+}
+} },
+{ "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.1",
+  "LogicalSectionID": "Princetonian18760922-01.2.2",
+  "LogicalSectionTitle": "EDITORS:",
+  "LogicalSectionType": "ARTICLE"
+}
+} },
+{ "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.1",
+  "LogicalSectionID": "Princetonian18760922-01.2.3",
+  "LogicalSectionTitle": "CONTENTS:",
+  "LogicalSectionType": "ARTICLE"
+}
+} },
+{ "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.1",
+  "LogicalSectionID": "Princetonian18760922-01.2.4",
+  "LogicalSectionTitle": "Untitled",
+  "LogicalSectionType": "ARTICLE"
+}
+} },
+{ "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.1",
+  "LogicalSectionID": "Princetonian18760922-01.2.5",
+  "LogicalSectionTitle": "Untitled",
+  "LogicalSectionType": "ARTICLE"
+}
+} },
+{ "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.1",
+  "LogicalSectionID": "Princetonian18760922-01.2.6",
+  "LogicalSectionTitle": "Untitled",
+  "LogicalSectionType": "ARTICLE"
+}
+} }<a href="#" onclick="sectionLinkTocOnClick('Princetonian18760922-01.1.2', 'Princetonian18760922-01.1.2'); return false;"><b><u>Page 2</u></b></a> ,
+{ "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.2",
+  "LogicalSectionID": "Princetonian18760922-01.2.7",
+  "LogicalSectionTitle": "Untitled",
+  "LogicalSectionType": "ARTICLE"
+}
+} }<a href="#" onclick="sectionLinkTocOnClick('Princetonian18760922-01.1.3', 'Princetonian18760922-01.1.3'); return false;"><b><u>Page 3</u></b></a> ,
+{ "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.3",
+  "LogicalSectionID": "Princetonian18760922-01.2.8",
+  "LogicalSectionTitle": "Untitled",
+  "LogicalSectionType": "ARTICLE"
+}
+} }<a href="#" onclick="sectionLinkTocOnClick('Princetonian18760922-01.1.4', 'Princetonian18760922-01.1.4'); return false;"><b><u>Page 4</u></b></a> ,
+{ "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.4",
+  "LogicalSectionID": "Princetonian18760922-01.2.9",
+  "LogicalSectionTitle": "Untitled",
+  "LogicalSectionType": "ARTICLE"
+}
+} },
+{ "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.4",
+  "LogicalSectionID": "Princetonian18760922-01.2.10",
+  "LogicalSectionTitle": "Untitled",
+  "LogicalSectionType": "ARTICLE"
+}
+} }<a href="#" onclick="sectionLinkTocOnClick('Princetonian18760922-01.1.5', 'Princetonian18760922-01.1.5'); return false;"><b><u>Page 5</u></b></a> ,
+{ "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.5",
+  "LogicalSectionID": "Princetonian18760922-01.2.11",
+  "LogicalSectionTitle": "Untitled",
+  "LogicalSectionType": "ARTICLE"
+}
+} },
+{ "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.5",
+  "LogicalSectionID": "Princetonian18760922-01.2.12",
+  "LogicalSectionTitle": "MEETING OF THE AMERICAN PHILOLOGICAL ASSOCIATION.",
+  "LogicalSectionType": "ARTICLE"
+}
+} }<a href="#" onclick="sectionLinkTocOnClick('Princetonian18760922-01.1.7', 'Princetonian18760922-01.1.7'); return false;"><b><u>Page 7</u></b></a> ,
+{ "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.7",
+  "LogicalSectionID": "Princetonian18760922-01.2.13",
+  "LogicalSectionTitle": "SECTARIANISM IN PRINCETON.",
+  "LogicalSectionType": "ARTICLE"
+}
+} },
+{ "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.7",
+  "LogicalSectionID": "Princetonian18760922-01.2.14",
+  "LogicalSectionTitle": "HAZING.",
+  "LogicalSectionType": "ARTICLE"
+}
+} }<a href="#" onclick="sectionLinkTocOnClick('Princetonian18760922-01.1.8', 'Princetonian18760922-01.1.8'); return false;"><b><u>Page 8</u></b></a> ,
+{ "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.8",
+  "LogicalSectionID": "Princetonian18760922-01.2.15",
+  "LogicalSectionTitle": "DESULTORY READING.",
+  "LogicalSectionType": "ARTICLE"
+}
+} }<a href="#" onclick="sectionLinkTocOnClick('Princetonian18760922-01.1.9', 'Princetonian18760922-01.1.9'); return false;"><b><u>Page 9</u></b></a> ,
+{ "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.9",
+  "LogicalSectionID": "Princetonian18760922-01.2.16",
+  "LogicalSectionTitle": "REPORTER.",
+  "LogicalSectionType": "ARTICLE"
+}
+} },
+{ "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.9",
+  "LogicalSectionID": "Princetonian18760922-01.2.17",
+  "LogicalSectionTitle": "ATHLETIC NOTES.",
+  "LogicalSectionType": "ARTICLE"
+}
+} }<a href="#" onclick="sectionLinkTocOnClick('Princetonian18760922-01.1.11', 'Princetonian18760922-01.1.11'); return false;"><b><u>Page 11</u></b></a> ,
+{ "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.11",
+  "LogicalSectionID": "Princetonian18760922-01.2.18",
+  "LogicalSectionTitle": "PERSONAL.",
+  "LogicalSectionType": "ARTICLE"
+}
+} },
+{ "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.11",
+  "LogicalSectionID": "Princetonian18760922-01.2.19",
+  "LogicalSectionTitle": "HERE AND THERE.",
+  "LogicalSectionType": "ARTICLE"
+}
+} }<a href="#" onclick="sectionLinkTocOnClick('Princetonian18760922-01.1.12', 'Princetonian18760922-01.1.12'); return false;"><b><u>Page 12</u></b></a> ,
+{ "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.12",
+  "LogicalSectionID": "Princetonian18760922-01.2.20",
+  "LogicalSectionTitle": "COLLEGE ITEMS.",
+  "LogicalSectionType": "ARTICLE"
+}
+} },
+{ "LogicalSection": {
+"LogicalSectionMetadata": {
+  "LogicalSectionFirstPageID": "Princetonian18760922-01.1.12",
+  "LogicalSectionID": "Princetonian18760922-01.2.21",
+  "LogicalSectionTitle": "EDITOR'S TABLE.",
+  "LogicalSectionType": "ARTICLE"
+}
+} }]
+    },
+    
+"DocumentMetadata": {
+  "DocumentDate": "22 September 1876",
+  
+  "DocumentID": "Princetonian18760922-01",
+  "DocumentNumber": "3",
+  "DocumentTitle": "Princetonian",
+  "DocumentType": "NEWSPAPER"
+  ,"DocumentVolume": "1"
+}
+,
+    
+"PublicationMetadata": {
+  "PublicationID": "Princetonian",
+  "PublicationTitle": "Daily Princetonian"
+}
+
+  }
+}
+}
+}

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<VeridianXMLResponse>
+<DocumentResponse>
+  <Document>
+    <DocumentContent>
+      <DocumentLastModified>2022-09-07T01:43:10Z</DocumentLastModified>
+      <DocumentNextDocumentID>Princetonian18761005-01</DocumentNextDocumentID>
+      <DocumentPrevDocumentID></DocumentPrevDocumentID>
+      <DocumentPdfURL>/princetonperiodicals/cgi-bin/imageserver.pl?oid=Princetonian18760922-01&amp;getpdf=true</DocumentPdfURL>
+      <DocumentViewURL>/princetonperiodicals/?a=d&amp;d=Princetonian18760922-01</DocumentViewURL>
+      <ArrayOfPage><Page>
+<PageMetadata>
+  <PageID>Princetonian18760922-01.1.1</PageID>
+  <PageImageHeight>4200</PageImageHeight>
+  <PageImageWidth>2800</PageImageWidth>
+  <PageOCRAccuracy>81.5%</PageOCRAccuracy>
+  <PageTitle>Page 1</PageTitle>
+  <PageType>PAGE</PageType>
+</PageMetadata>
+</Page><Page>
+<PageMetadata>
+  <PageID>Princetonian18760922-01.1.2</PageID>
+  <PageImageHeight>4200</PageImageHeight>
+  <PageImageWidth>2800</PageImageWidth>
+  <PageOCRAccuracy>83.5%</PageOCRAccuracy>
+  <PageTitle>Page 2</PageTitle>
+  <PageType>PAGE</PageType>
+</PageMetadata>
+</Page><Page>
+<PageMetadata>
+  <PageID>Princetonian18760922-01.1.3</PageID>
+  <PageImageHeight>4200</PageImageHeight>
+  <PageImageWidth>2800</PageImageWidth>
+  <PageOCRAccuracy>86.8%</PageOCRAccuracy>
+  <PageTitle>Page 3</PageTitle>
+  <PageType>PAGE</PageType>
+</PageMetadata>
+</Page><Page>
+<PageMetadata>
+  <PageID>Princetonian18760922-01.1.4</PageID>
+  <PageImageHeight>4200</PageImageHeight>
+  <PageImageWidth>2800</PageImageWidth>
+  <PageOCRAccuracy>85.8%</PageOCRAccuracy>
+  <PageTitle>Page 4</PageTitle>
+  <PageType>PAGE</PageType>
+</PageMetadata>
+</Page><Page>
+<PageMetadata>
+  <PageID>Princetonian18760922-01.1.5</PageID>
+  <PageImageHeight>4200</PageImageHeight>
+  <PageImageWidth>2800</PageImageWidth>
+  <PageOCRAccuracy>86.7%</PageOCRAccuracy>
+  <PageTitle>Page 5</PageTitle>
+  <PageType>PAGE</PageType>
+</PageMetadata>
+</Page><Page>
+<PageMetadata>
+  <PageID>Princetonian18760922-01.1.6</PageID>
+  <PageImageHeight>4200</PageImageHeight>
+  <PageImageWidth>2800</PageImageWidth>
+  <PageOCRAccuracy>81.9%</PageOCRAccuracy>
+  <PageTitle>Page 6</PageTitle>
+  <PageType>PAGE</PageType>
+</PageMetadata>
+</Page><Page>
+<PageMetadata>
+  <PageID>Princetonian18760922-01.1.7</PageID>
+  <PageImageHeight>4200</PageImageHeight>
+  <PageImageWidth>2800</PageImageWidth>
+  <PageOCRAccuracy>82.9%</PageOCRAccuracy>
+  <PageTitle>Page 7</PageTitle>
+  <PageType>PAGE</PageType>
+</PageMetadata>
+</Page><Page>
+<PageMetadata>
+  <PageID>Princetonian18760922-01.1.8</PageID>
+  <PageImageHeight>4205</PageImageHeight>
+  <PageImageWidth>2808</PageImageWidth>
+  <PageOCRAccuracy>86.3%</PageOCRAccuracy>
+  <PageTitle>Page 8</PageTitle>
+  <PageType>PAGE</PageType>
+</PageMetadata>
+</Page><Page>
+<PageMetadata>
+  <PageID>Princetonian18760922-01.1.9</PageID>
+  <PageImageHeight>4200</PageImageHeight>
+  <PageImageWidth>2800</PageImageWidth>
+  <PageOCRAccuracy>85.2%</PageOCRAccuracy>
+  <PageTitle>Page 9</PageTitle>
+  <PageType>PAGE</PageType>
+</PageMetadata>
+</Page><Page>
+<PageMetadata>
+  <PageID>Princetonian18760922-01.1.10</PageID>
+  <PageImageHeight>4200</PageImageHeight>
+  <PageImageWidth>2800</PageImageWidth>
+  <PageOCRAccuracy>86.1%</PageOCRAccuracy>
+  <PageTitle>Page 10</PageTitle>
+  <PageType>PAGE</PageType>
+</PageMetadata>
+</Page><Page>
+<PageMetadata>
+  <PageID>Princetonian18760922-01.1.11</PageID>
+  <PageImageHeight>4200</PageImageHeight>
+  <PageImageWidth>2800</PageImageWidth>
+  <PageOCRAccuracy>80.3%</PageOCRAccuracy>
+  <PageTitle>Page 11</PageTitle>
+  <PageType>PAGE</PageType>
+</PageMetadata>
+</Page><Page>
+<PageMetadata>
+  <PageID>Princetonian18760922-01.1.12</PageID>
+  <PageImageHeight>4200</PageImageHeight>
+  <PageImageWidth>2800</PageImageWidth>
+  <PageOCRAccuracy>78%</PageOCRAccuracy>
+  <PageTitle>Page 12</PageTitle>
+  <PageType>PAGE</PageType>
+</PageMetadata>
+</Page></ArrayOfPage>
+      <ArrayOfLogicalSection><a href="#" onclick="sectionLinkTocOnClick('Princetonian18760922-01.1.1', 'Princetonian18760922-01.1.1'); return false;"><b><u>Page 1</u></b></a> <LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.1</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.1</LogicalSectionID>
+  <LogicalSectionTitle>Masthead</LogicalSectionTitle>
+  <LogicalSectionType>TITLE_SECTION</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection><LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.1</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.2</LogicalSectionID>
+  <LogicalSectionTitle>EDITORS:</LogicalSectionTitle>
+  <LogicalSectionType>ARTICLE</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection><LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.1</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.3</LogicalSectionID>
+  <LogicalSectionTitle>CONTENTS:</LogicalSectionTitle>
+  <LogicalSectionType>ARTICLE</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection><LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.1</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.4</LogicalSectionID>
+  <LogicalSectionTitle>Untitled</LogicalSectionTitle>
+  <LogicalSectionType>ARTICLE</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection><LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.1</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.5</LogicalSectionID>
+  <LogicalSectionTitle>Untitled</LogicalSectionTitle>
+  <LogicalSectionType>ARTICLE</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection><LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.1</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.6</LogicalSectionID>
+  <LogicalSectionTitle>Untitled</LogicalSectionTitle>
+  <LogicalSectionType>ARTICLE</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection><a href="#" onclick="sectionLinkTocOnClick('Princetonian18760922-01.1.2', 'Princetonian18760922-01.1.2'); return false;"><b><u>Page 2</u></b></a> <LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.2</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.7</LogicalSectionID>
+  <LogicalSectionTitle>Untitled</LogicalSectionTitle>
+  <LogicalSectionType>ARTICLE</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection><a href="#" onclick="sectionLinkTocOnClick('Princetonian18760922-01.1.3', 'Princetonian18760922-01.1.3'); return false;"><b><u>Page 3</u></b></a> <LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.3</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.8</LogicalSectionID>
+  <LogicalSectionTitle>Untitled</LogicalSectionTitle>
+  <LogicalSectionType>ARTICLE</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection><a href="#" onclick="sectionLinkTocOnClick('Princetonian18760922-01.1.4', 'Princetonian18760922-01.1.4'); return false;"><b><u>Page 4</u></b></a> <LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.4</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.9</LogicalSectionID>
+  <LogicalSectionTitle>Untitled</LogicalSectionTitle>
+  <LogicalSectionType>ARTICLE</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection><LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.4</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.10</LogicalSectionID>
+  <LogicalSectionTitle>Untitled</LogicalSectionTitle>
+  <LogicalSectionType>ARTICLE</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection><a href="#" onclick="sectionLinkTocOnClick('Princetonian18760922-01.1.5', 'Princetonian18760922-01.1.5'); return false;"><b><u>Page 5</u></b></a> <LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.5</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.11</LogicalSectionID>
+  <LogicalSectionTitle>Untitled</LogicalSectionTitle>
+  <LogicalSectionType>ARTICLE</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection><LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.5</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.12</LogicalSectionID>
+  <LogicalSectionTitle>MEETING OF THE AMERICAN PHILOLOGICAL ASSOCIATION.</LogicalSectionTitle>
+  <LogicalSectionType>ARTICLE</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection><a href="#" onclick="sectionLinkTocOnClick('Princetonian18760922-01.1.7', 'Princetonian18760922-01.1.7'); return false;"><b><u>Page 7</u></b></a> <LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.7</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.13</LogicalSectionID>
+  <LogicalSectionTitle>SECTARIANISM IN PRINCETON.</LogicalSectionTitle>
+  <LogicalSectionType>ARTICLE</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection><LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.7</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.14</LogicalSectionID>
+  <LogicalSectionTitle>HAZING.</LogicalSectionTitle>
+  <LogicalSectionType>ARTICLE</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection><a href="#" onclick="sectionLinkTocOnClick('Princetonian18760922-01.1.8', 'Princetonian18760922-01.1.8'); return false;"><b><u>Page 8</u></b></a> <LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.8</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.15</LogicalSectionID>
+  <LogicalSectionTitle>DESULTORY READING.</LogicalSectionTitle>
+  <LogicalSectionType>ARTICLE</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection><a href="#" onclick="sectionLinkTocOnClick('Princetonian18760922-01.1.9', 'Princetonian18760922-01.1.9'); return false;"><b><u>Page 9</u></b></a> <LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.9</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.16</LogicalSectionID>
+  <LogicalSectionTitle>REPORTER.</LogicalSectionTitle>
+  <LogicalSectionType>ARTICLE</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection><LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.9</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.17</LogicalSectionID>
+  <LogicalSectionTitle>ATHLETIC NOTES.</LogicalSectionTitle>
+  <LogicalSectionType>ARTICLE</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection><a href="#" onclick="sectionLinkTocOnClick('Princetonian18760922-01.1.11', 'Princetonian18760922-01.1.11'); return false;"><b><u>Page 11</u></b></a> <LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.11</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.18</LogicalSectionID>
+  <LogicalSectionTitle>PERSONAL.</LogicalSectionTitle>
+  <LogicalSectionType>ARTICLE</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection><LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.11</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.19</LogicalSectionID>
+  <LogicalSectionTitle>HERE AND THERE.</LogicalSectionTitle>
+  <LogicalSectionType>ARTICLE</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection><a href="#" onclick="sectionLinkTocOnClick('Princetonian18760922-01.1.12', 'Princetonian18760922-01.1.12'); return false;"><b><u>Page 12</u></b></a> <LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.12</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.20</LogicalSectionID>
+  <LogicalSectionTitle>COLLEGE ITEMS.</LogicalSectionTitle>
+  <LogicalSectionType>ARTICLE</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection><LogicalSection>
+<LogicalSectionMetadata>
+  <LogicalSectionFirstPageID>Princetonian18760922-01.1.12</LogicalSectionFirstPageID>
+  <LogicalSectionID>Princetonian18760922-01.2.21</LogicalSectionID>
+  <LogicalSectionTitle>EDITOR'S TABLE.</LogicalSectionTitle>
+  <LogicalSectionType>ARTICLE</LogicalSectionType>
+</LogicalSectionMetadata>
+</LogicalSection></ArrayOfLogicalSection>
+    </DocumentContent>
+    
+<DocumentMetadata>
+  <DocumentDate>22 September 1876</DocumentDate>
+  
+  <DocumentID>Princetonian18760922-01</DocumentID>
+  <DocumentNumber>3</DocumentNumber>
+  <DocumentTitle>Princetonian</DocumentTitle>
+  <DocumentType>NEWSPAPER</DocumentType>
+  <DocumentVolume>1</DocumentVolume>
+</DocumentMetadata>
+
+    
+<PublicationMetadata>
+  <PublicationID>Princetonian</PublicationID>
+  <PublicationTitle>Daily Princetonian</PublicationTitle>
+</PublicationMetadata>
+
+  </Document>
+</DocumentResponse>
+<!-- 
+Elapsed time: 0.041795s
+User time: 0.030133s
+System time: 0.012452s
+Children user time: 0.000000s
+Children system time: 0.000000s
+ -->
+</VeridianXMLResponse>
