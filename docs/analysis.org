@@ -1,8 +1,172 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:t title:t toc:t todo:t |:t
+#+title: Developing Infrastructure to Suppport Periodical Digitization at PUL
+#+date: <2024-01-24 Wed>
+#+author: Cliff Wulfman
+#+email: cwulfman@princeton.edu
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 29.1 (Org mode 9.6.6)
+#+cite_export:
+
+* Summary
+To be written last.
+
+* Background
+- early pilots
+- The Daily Princetonian
+- The Papers of Princeton
+- The Blue Mountain Project
+
+* Current Needs
+- periodicals in Figgy are unusable, and a working solution needs to
+  be developed
+- curators have newspaper projects they would like to pursue
+
+* Challenges
+- newspapers and periodicals do not fit into the current Figgy data
+  model
+- newspapers and periodicals tend to be large collective objects
+- newspapers and periodicals often have different use cases and user
+  profiles from other library materials
+
+* Possible Solutions
+The following list outlines possible solutions to the challenges.  I
+have ranked them from least-desirable to most attractive.
+
+- Do nothing :: One should always consider this option.  There simply
+  may not be sufficient motivation to take any action.  Given the
+  current needs, this is probably not a viable solution in the long
+  run.
+
+- Discontinue digitization of newspapers and periodicals :: Another
+  non-viable option to include for completeness' sake.
+
+- Design and develop an entirely in-house end-to-end solution :: Not
+  realistic, given PUL priorities and available resources.
+
+- Modify Figgy and its presentation tools to better handle newspapers
+  and periodicals :: Similarly unrealistic, for the same reasons.
+
+- Explore Samvera-based systems :: There was a grant-funded project
+  several years ago to develop a Hydra-based system based on the
+  Portland Common Data Model.  There are still group calls every few
+  months, but https://github.com/samvera-labs/newspaper_works appears
+  to be stalled or abandoned.  I don't know of any others.
+
+- Use Veridian :: This seems like the most viable solution.  We
+  already license the software; it is world-class and well-supported.
+
+* Analysis
+Delivering newspapers and periodicals in Veridian is the most viable
+solution to the challenges.
+
+** Drawbacks to Veridian
+- it is a commercial product with a non-trivial license fee.
+
+- it requires operations support.
+
+- it uses a different data model from Figgy's.
+
+- adopting it fully would require development of additional workflows
+  and staff training.
+
+* Data Model
+Veridian relies on two metadata standards to manage and display
+digital objects: METS and ALTO.  METS is a standard schema for
+encoding descriptive, administrative, and structural metadata about
+digital library objects; ALTO is a complementary schema for capturing
+content and layout information.  Both standards are maintained by the
+Library of Congress; the combination of the two (METS/ALTO) is in
+common use in digital libraries around the world.  METS/ALTO is frequently
+combined with the MODS schema (also a Library of Congress standard) to
+capture bibliographic metadata, but METS is agnostic about descriptive
+metadata schemas.
+
+** Why not MARC?
+MARC is not well suited for describing periodicals, in particular the
+relationships between articles, issues, and titles.  Representation at
+the issue level is crucial digital libraries of newspapers and periodicals.
+
+** Why not IIIF?
+METS/ALTO and the International Image Interoperability Framework
+(IIIF) Presentation API are complementary but very different models of
+digital objects. IIIF manifests are intended to be lightweight data
+structures that can be efficiently transmitted over HTTP and used by
+image-viewer applications; METS and ALTO are data representation
+schemas that may be used for both preservation and display. IIIF
+manifests can easily be derived from METS/ALTO objects.
+
+* Processing Levels
+METS/ALTO creation can be complicated, because the format is very
+flexible, but not every METS/ALTO object has to be complex.
+
+** Level 0
+A METS object with skeletal descriptive metadata, an inventory of
+image files, and a physical structMap outlining page order.
+
+*** Affordances
+- minimal discovery
+- ordered presentation of page images
+
+** Level 1
+A Level 0 object that also contains one or more detailed descriptive
+metadata sections (MARCXML, MODS, BIBFRAME, LRMoo, or other)
+
+*** Affordances
+- enhanced discovery
+- ordered presentation of page images
+
+** Level 2
+A Level 1 object that includes coordinated OCR for each page
+(represented in ALTO)
+
+*** Affordances
+- enhanced discovery
+- full-text search
+- ordered presentation of page images
+- hit highlighting
+- support for annotation
+
+** Level 3
+A Level 2 object with constituent-level metadata (in MODS or other
+capable metadata schema).
+
+*** Affordances
+- constituent-level discovery
+- full-text search
+- ordered presentation of page images
+- hit highlighting
+- support for annotation
+
+** Level 4
+A Level 3 object with the constituent-level metadata linked to zones
+on pages.
+*** Affordances
+- constituent-level discovery
+- full-text search
+- ordered presentation of page images
+- presentation of regions of interest
+- hit highlighting
+- support for annotation
+  
 * Workflows
 There are several dimensions to this project, and one is logistical:
 the workflows that guide production from title selection through
 ingestion.
 
+- METS/ALTO creation is complex but achievable and cost-effective
+  - Three-Tiered Approach
+    - Outsource Everything
+    - Outsource metadata creation
+    - Do everything in-house
+      - fully automated
+      - semi-automated
+    
 *Scenario:* a curator has a newspaper or periodical title and wants it
 "digitized" and made available to patrons.
 
@@ -15,7 +179,7 @@ ingestion.
 - Is there in-house language expertise to handle it?
 - How large is the run, in terms of volumes, issues, and pages?
 
-** Options
+** Choice of Processing Option
 - Outsource everything. :: Send paper copies or microfilm to an
   established vendor for imaging, and send the digital images to DDD
   for processing into METS/ALTO data.  This is how /The Daily

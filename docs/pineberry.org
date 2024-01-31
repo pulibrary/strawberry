@@ -1,0 +1,88 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:t title:t toc:t todo:t |:t
+#+title: Pineberry: a Prototype
+#+date: <2024-01-24 Wed>
+#+author: WulfmanC
+#+email: wulfmanc@LIB-Y0PK60MQWH
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 29.1 (Org mode 9.6.6)
+#+cite_export:
+
+* Use Cases
+
+* Requirements
+
+* User Journeys
+
+** Journey 1: Starting a Project
+Librarian has a newspaper they want to make available in digital form.
+They open up the application and log in.
+
+They are shown a list of projects they are working on.  They click on
+a button to start a new project.
+
+They are presented with a form that they use to enter initial
+metadata.  The system creates a new project.
+
+The system presents a project dashboard.  The librarian can use the
+dashboard to get information about the status of various aspects of
+the project and initiate various actions.  One of those actions is
+creating or editing the inventory; they choose this action.
+
+They are presented with a form that lets them itemize the issues to be
+processed.  They may also choose to import an existing inventory that
+has been created in a spreadsheet application and exported as CSV.  In
+the form, they record information particular to each issue: volume,
+issue, date of publication.
+
+
+Some of that metadata must be provided before the project
+can be created; other metadata can be filled in later.
+
+** Journey 2: Capturing Images
+A Digital Studio Technician is shooting some issues of a newspaper.
+They open the application, log in, and select the project they're
+working on. They examine the original paper in front of them, noting
+the name of the paper and the date of publication in the masthead.
+They open the project's issue inventory and find the entry for this
+issue; they open the imaging form and, when they have shot the pages,
+enter a code that will allow the system to locate the images on the
+file server.
+
+** Journey 3: Processing Images
+A librarian wants to create derivatives and metadata.  They log into
+the system and open the project.  On the dashboard, they see that 10
+issues have been shot in the Studio and are ready for processing.
+They open the scheduler, where they see a spreadsheet with entries for
+every item in the inventory.  Each entry indicates its processing
+status; the librarian filters the sheet to show only the issues that
+have not yet been processed, selects all of them, and clicks a button
+to schedule a processing run.  On the form that pops up, they simply
+click the "process now" button to trigger an immediate run.
+
+
+** Journey 4: Review
+While they are there, the librarian notices that a previous run has
+completed and there are several issues waiting to be reviewed.  They
+click on a button next to the issue to go to the review form.  There,
+for each image, they see a thumbnail, its ordinal number (where it
+falls in the sequence of page images) and its logical number (it defaults
+to the ordinal number).  Here they may re-order the pages by changing
+the ordinal numbers and, if they like, edit the logical numbers to
+reflect the numbering on the printed pages.
+
+** Journey 5: Preview
+When the librarian is satisfied with the metadata, they click on a
+preview button.  The system works for a while and then presents them
+with a IIIF viewer displaying the issue's pages and metadata.
+
+** Journey 6: Publish
+When the librarian is satisfied with the preview, they click on a
+publish button, and the system informs them that the issue has been
+sent to the ingestion queue.  Some time later they will get a notice
+that the ingest is complete; now they can go to Veridian and see it.
