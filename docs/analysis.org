@@ -23,8 +23,7 @@ To be written last.
 - The Blue Mountain Project
 
 * Current Needs
-- periodicals in Figgy are unusable, and a working solution needs to
-  be developed
+- newspapers and periodicals already in Figgy are unusable
 - curators have newspaper projects they would like to pursue
 
 * Challenges
@@ -39,14 +38,12 @@ The following list outlines possible solutions to the challenges.  I
 have ranked them from least-desirable to most attractive.
 
 - Do nothing :: One should always consider this option.  There simply
-  may not be sufficient motivation to take any action.  Given the
-  current needs, this is probably not a viable solution in the long
-  run.
+  may not be sufficient motivation to take any action.
 
-- Discontinue digitization of newspapers and periodicals :: Another
-  non-viable option to include for completeness' sake.
+- Discontinue digitization of newspapers and periodicals :: The
+  newspapers already in Figgy would remain unusable.
 
-- Design and develop an entirely in-house end-to-end solution :: Not
+- Design and develop an end-to-end solution entirely in-house :: Not
   realistic, given PUL priorities and available resources.
 
 - Modify Figgy and its presentation tools to better handle newspapers
@@ -90,7 +87,8 @@ metadata schemas.
 ** Why not MARC?
 MARC is not well suited for describing periodicals, in particular the
 relationships between articles, issues, and titles.  Representation at
-the issue level is crucial digital libraries of newspapers and periodicals.
+the issue level is crucial for digital libraries of newspapers and
+periodicals.
 
 ** Why not IIIF?
 METS/ALTO and the International Image Interoperability Framework
@@ -98,8 +96,8 @@ METS/ALTO and the International Image Interoperability Framework
 digital objects. IIIF manifests are intended to be lightweight data
 structures that can be efficiently transmitted over HTTP and used by
 image-viewer applications; METS and ALTO are data representation
-schemas that may be used for both preservation and display. IIIF
-manifests can easily be derived from METS/ALTO objects.
+schemas that may be used for preservation, discovery, and
+display. IIIF manifests can easily be derived from METS/ALTO objects.
 
 * Processing Levels
 METS/ALTO creation can be complicated, because the format is very
@@ -112,6 +110,11 @@ image files, and a physical structMap outlining page order.
 *** Affordances
 - minimal discovery
 - ordered presentation of page images
+*** Effort Estimate
+Fully automated production would be feasible.  A simple script to
+generate the minimal METS structure from a directory of images.  Code
+to generate derivatives (JP2s, Pyramidal TIFFs) could be taken
+directly from Figgy (or reconfigured as a common service).
 
 ** Level 1
 A Level 0 object that also contains one or more detailed descriptive

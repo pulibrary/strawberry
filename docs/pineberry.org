@@ -1,19 +1,18 @@
-#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
-#+options: author:t broken-links:nil c:nil creator:nil
-#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
-#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
-#+options: timestamp:t title:t toc:t todo:t |:t
-#+title: Pineberry: a Prototype
+title: Pineberry: a Prototype
 #+date: <2024-01-24 Wed>
-#+author: WulfmanC
-#+email: wulfmanc@LIB-Y0PK60MQWH
-#+language: en
-#+select_tags: export
-#+exclude_tags: noexport
-#+creator: Emacs 29.1 (Org mode 9.6.6)
-#+cite_export:
+#+author: Cliff Wulfman
+#+email: cwulfman@princeton.edu
+
+* Overview
+This document discusses a possible system for managing the processes
+associated with digitizing newspapers and periodicals.
+
+For background on this initiative, see X.
+
 
 * Use Cases
+
+
 
 * Requirements
 
@@ -40,7 +39,6 @@ has been created in a spreadsheet application and exported as CSV.  In
 the form, they record information particular to each issue: volume,
 issue, date of publication.
 
-
 Some of that metadata must be provided before the project
 can be created; other metadata can be filled in later.
 
@@ -55,7 +53,7 @@ enter a code that will allow the system to locate the images on the
 file server.
 
 ** Journey 3: Processing Images
-A librarian wants to create derivatives and metadata.  They log into
+A librarian wants to create ++derivatives and++ metadata.  They log into
 the system and open the project.  On the dashboard, they see that 10
 issues have been shot in the Studio and are ready for processing.
 They open the scheduler, where they see a spreadsheet with entries for
@@ -64,7 +62,6 @@ status; the librarian filters the sheet to show only the issues that
 have not yet been processed, selects all of them, and clicks a button
 to schedule a processing run.  On the form that pops up, they simply
 click the "process now" button to trigger an immediate run.
-
 
 ** Journey 4: Review
 While they are there, the librarian notices that a previous run has
