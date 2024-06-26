@@ -1,0 +1,24 @@
+title: mapressor: a mets/alto processor
+#+date: <2024-02-05 Mon>
+#+author:cew
+#+email: cwulfman@princeton.edu
+
+* How to Create a METS/ALTO Object
+** Major Sections of a METS Object
+The METS schema defines seven major sections in a METS document, but
+in practice we will be concerned with only four: the METS Header, the
+Descriptive Metadata section, the File Section, and the Structural
+Map. (Please see the LOC's [[https://www.loc.gov/standards/mets/METSOverview.v3_en.html][Overview and Tutorial]] for a good
+introduction to METS.)
+** Level 0
+Required elements:
+- metsHdr/metsDocumentID :: to identify the record
+- fileSec/fileGrp/file/FLocat+ :: one or more URIs pointing to stored
+  page image files.
+
+METS FileSec and StructMap; no ALTO files
+
+The fileSec provides an inventory of files
+** 
+* Distilling METS/ALTO Data
+Although 
