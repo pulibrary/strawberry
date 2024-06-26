@@ -7,9 +7,6 @@ title: Pineberry: a Prototype
 This document discusses a possible system for managing the processes
 associated with digitizing newspapers and periodicals.
 
-For background on this initiative, see X.
-
-
 * Use Cases
 
 
