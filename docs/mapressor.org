@@ -1,4 +1,4 @@
-title: mapressor: a mets/alto processor
+title: Mapressor: A METS/ALTO Processor
 #+date: <2024-02-05 Mon>
 #+author:cew
 #+email: cwulfman@princeton.edu
