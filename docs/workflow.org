@@ -1,0 +1,220 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil expand-links:t f:t
+#+options: inline:t num:t p:nil pri:nil prop:nil stat:t tags:t
+#+options: tasks:t tex:t timestamp:t title:t toc:t todo:t |:t
+#+title: Workflow for Digitizing Newspapers and Periodicals
+#+date: <2025-03-12 Wed>
+#+author: cew
+#+email: cwulfman@princeton.edu
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 30.1 (Org mode 9.7.11)
+#+cite_export:
+
+
+* Workflow for Digitizing Newspapers and Periodicals
+This document is part of a series about digitizing newspapers,
+magazines, and other periodicals. This document is intended for library
+staff who are undertaking a digitization project.
+
+Periodicals are magazines, newspapers, journals, and other printed texts
+published in parts over time. They have received poor treatment from
+libraries (see
+[[https://catalog.princeton.edu/catalog/9962533003506421]]), in part
+because they have been considered ephemeral; in part because they are
+difficult to describe (see [[https://www.loc.gov/aba/pcc/conser/]]); in
+part because their readerships have historically come from marginalized
+classes. They have fared no better in digitization, which often ignores
+their compound nature (they are not multi-volume works, and, taken as
+wholes (runs), many are thousands of pages long) and their often-complex
+page layouts, which make naive text capture more challenging.
+
+DLS's vision of becoming an "inspiring environment for global
+communities to engage with diverse collections" must frankly acknowledge
+that diversity. Not all library collections are bound volumes, yet the
+tools, workflows, and systems PUL has developed to enable "easy ingest,
+long-term preservation, joyful discovery, and transformative use of
+digital materials" focus on books. Periodicals are different: they are
+published differently; they are read differently. They require different
+approaches, tools, and techniques to be digitized and delivered.
+
+** A Typical Workflow
+The processes required to digitize periodicals are quite different from
+those used to digitize books. Periodical publication produces multiple
+artifacts, so one must think in terms of runs of issues, not volumes.
+The first step in the digitization workflow is to determine the nature
+of the entity being digitized.
+
+*** Perform Title Research
+Establish a firm identity for the periodical. Is the title continuous
+(i.e., does it have an uninterrupted run with a clear beginning and
+end)? Does its name ever change? Does it merge with another publication?
+Does it ever cease and then resume publication? Answering these
+questions requires research beyond simply looking at a MARC record:
+depending on the obscurity of the title, this research may be
+time-consuming.
+
+What is the run? How many issues were there? This is /not/ the same as
+asking how many issues Princeton owns! Again, determining the scale of a
+run may require extensive research.
+
+Who should do this work? Obscure or complex titles may require skilled
+researchers.
+
+- Project manager
+- Librarian
+- Assistants (staff, graduate students)
+
+*** Create an Inventory of Holdings, per Issue
+This step is mandatory. Someone /must/ look at /all/ of Princeton's
+holdings before any digitization begins. Asking Roel and his staff to
+sort it all out during imaging is not an appropriate use of resources.
+
+This inventory must be as complete as we can make it. The more gaps,
+duplications, and inconsistencies we find at this stage, the less
+trouble and expense we will incur later on.
+
+The inventory should be compiled in a spreadsheet that we will supply.
+In most cases, the information can be taken from the original issues
+without much difficulty:
+
+- Title of the publication as it appears in the masthead
+- Subtitles or alternate titles in the masthead, if applicable
+- Date of publication. Record this in two formats:
+  - As it appears on the masthead
+  - In ISO8601 format (YYYY-MM-DD) for machine processing
+- Volume information:
+  - As it appears in the masthead
+  - As an integer
+- Issue information
+  - As it appears in the masthead
+  - As an integer
+- Number of pages (including covers) --- this helps in quality control
+- Condition notes:
+  - paper in poor condition
+  - pages missing
+  - tightly bound
+  - covers missing
+  - advertisements missing
+  - etc.
+- Page dimensions
+
+Who should perform this work?
+
+- Project manager
+- Library staff
+- Student workers
+
+*** [Conservation]
+During any of the previous steps, someone may draw attention to the
+condition of the material. It may quickly become obvious that a run is
+too fragile or too incomplete to be processed; performing the inventory
+may reveal previously unrecorded damage. The damage may be so extensive
+or severe that the inventory needs to be halted and the title withdrawn;
+in other cases, the inventory will yield a list of conservation issues
+that must be presented to the preservation office for assessment and
+repair.
+
+Conservation requires professional conservation staff.
+
+*** Completion/Augmentation
+When Princeton's holdings are incomplete, and/or portions cannot be
+photographed, others must be found. This can be a very complicated,
+drawn-out process. We strongly discourage partial digitization;
+incomplete runs are /much/ less useful to researchers.
+
+There must be a well-worked-out plan for obtaining fill-ins and
+completions /before/ shooting of Princeton's holdings begins. If the
+gaps in Princeton's holdings are too great, and it is too difficult to
+get fill-ins, the title may need to be withdrawn.
+
+**** Research
+Who has what we need? Librarians may be able to check with other
+institutions to see if they have holdings and if so, if they would be
+willing to cooperate with us. They often have contacts in the book trade
+and may be willing to acquire fill-ins to complete their collections.
+Some of this work may be done by trained researchers; some of it may
+need to be done by librarians and curators.
+
+**** Access
+Sometimes Princeton can buy missing materials. Otherwise, someone must
+reach out to institutions or individuals owning the missing material and
+see if they would be willing to give us access to their holdings. This
+access may be in several forms:
+
+- Let us come and shoot the material;
+- Send us the material and let us shoot it at Princeton;
+- Shoot the material to our specifications and send us image files;
+- Donate the materials
+
+*** Markup Analysis
+In order to perform document conversion, vendors may require a /markup
+policy:/ a detailed set of rules and guidelines to help operators
+recognize headings, bylines, articles, sections, and other structural
+units.
+
+**** Format Review
+Perform a top-level review of the entire run, taking note of several
+things:
+
+- significant changes in layout, dimensions, format, etc.
+- remarkable features: fold-outs, cut-outs, unusual typography or
+  layout, etc.
+- notable similarities with other, already-processed titles
+
+**** Markup Policy
+Create a markup policy in consultation with the digitization vendor, who
+will specify what information they require. In general, the process
+entails selecting a set of representative pages and describing the
+structural elements comprising the layout: headlines, bylines,
+continuation markers, figure captions, running heads, etc.
+
+*** Preliminary Descriptive Metadata Analysis
+We use MODS to describe periodicals and newspapers, because it is
+commonly used in libraries and provides a rich yet simple vocabulary for
+describing the components. It is a /lingua franca/ among digitization
+vendors.
+
+The preliminary MODS records can often be generated automatically from
+the inventory spreadsheet. When there is information that cannot be
+expressed in a flat table, the records may need to be edited by someone
+familiar with MODS.
+
+*** Image Creation
+PUL's Digital Photography Studio has developed detailed workflows for
+creating high-resolution digital images that are suitable for digitizing
+newspaper and magazine pages. Not all aspects of their standard
+workflows are compatible, however, so project managers must work with
+the DPS to make sure page images are properly named and organized. If
+the Studio is unable to accommodate, project managers will need to hire
+technicians to convert Studio output into proper forms.
+
+*This section needs much more expansion*
+
+*** Metadata and Image Transfer to Vendor
+New details to be established
+
+*** METS/ALTO Creation
+(Sometimes called "METS/ALTO Conversion".)
+
+The Vendor follows the requirements specification and produces batches
+of output. For each issue:
+
+- One ALTO file for each page image;
+- One METS file for the entire issue;
+- Image derivatives for display in Veridian
+
+During production, the Vendor may communicate with the PUL project
+manager to resolve problems and answer questions.
+
+*** METS/ALTO Delivery and Ingest
+:PROPERTIES:
+:CUSTOM_ID: metsalto-delivery-and-ingest
+:END:
+Starting with US 1, PUL has instituted a new delivery and ingest
+workflow. Vendors make output available to DL Consulting, who ingest the
+batch into a staging server. When the batch has passed QC, DL Consulting
+ingests the batch into the production server, and sends us the METS/ALTO
+and derivative images for our own preservation.
