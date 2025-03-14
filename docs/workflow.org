@@ -186,33 +186,12 @@ Who performs this work: Digital Photography Studio
 
 *** Metadata Creation
 There are two options for creating the metadata that defines issue
-objects: 
+objects:
 
+- using a local workflow to create page-level issues
+- hiring a vendor to produce article-level segmentation
+
+*** Quality Control
+[tk]
 *** Repository Ingestion
-
-
-**** Metadata and Image Transfer to Vendor
-New details to be established
-
-**** METS/ALTO Creation
-(Sometimes called "METS/ALTO Conversion".)
-
-The Vendor follows the requirements specification and produces batches
-of output. For each issue:
-
-- One ALTO file for each page image;
-- One METS file for the entire issue;
-- Image derivatives for display in Veridian
-
-During production, the Vendor may communicate with the PUL project
-manager to resolve problems and answer questions.
-
-**** METS/ALTO Delivery and Ingest
-:PROPERTIES:
-:CUSTOM_ID: metsalto-delivery-and-ingest
-:END:
-Starting with US 1, PUL has instituted a new delivery and ingest
-workflow. Vendors make output available to DL Consulting, who ingest the
-batch into a staging server. When the batch has passed QC, DL Consulting
-ingests the batch into the production server, and sends us the METS/ALTO
-and derivative images for our own preservation.
+[tk]
