@@ -1,0 +1,22 @@
+#+title: Prior Work
+#+date: <2025-03-12 Wed>
+#+author: cew
+#+email: cwulfman@princeton.edu
+
+This document reviews other newspaper-digitization projects,
+resources, and activities relevant to Strawberry.
+
+* National Digital Newspaper Program (NDNP)
+ https://www.loc.gov/ndnp/
+
+ (see
+ https://en.wikipedia.org/wiki/National_Digital_Newspaper_Program)
+
+ Ongoing since 2004; part of Chronicling America.
+
+* Trove
+https://trove.nla.gov.au/
+(see https://en.wikipedia.org/wiki/Trove)
+
+* Europeana Newspapers
+http://www.europeana-newspapers.eu/
